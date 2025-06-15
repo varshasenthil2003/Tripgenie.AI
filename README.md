@@ -10,6 +10,14 @@ Using AI-driven insights, interactive UI components, and detailed export options
 
 ---
 
+## 🖥️ Example Screenshot
+
+Here’s a quick preview of TripGenie.AI in action:
+
+![TripGenie.AI Demo](assets/demo_screenshot.png)
+
+---
+
 ## 🛠️ Technologies Used
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge)
