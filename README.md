@@ -12,13 +12,14 @@ Using AI-driven insights, interactive UI components, and detailed export options
 
 ## 🛠️ Technologies Used
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red.svg)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-10a37f?style=for-the-badge\&logo=openai\&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-API-green.svg)
-![ReportLab](https://img.shields.io/badge/ReportLab-PDF-lightgrey.svg)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-API-007acc?style=for-the-badge)
+![ReportLab](https://img.shields.io/badge/ReportLab-PDF-lightgrey?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 
 ---
 
