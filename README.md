@@ -68,18 +68,18 @@ Using AI-driven insights, interactive UI components, and detailed export options
 ## 🏗️ Directory Structure
 
 ```bash
-Tripgenie.AI/
-├── main.py                 # Main Streamlit app
-├── config.py              # API keys, UI settings, and app config
-├── session_manager.py     # Session state manager
-├── styles.py              # UI styling logic (CSS)
-├── ui_components.py       # Shared UI widgets
-├── itinerary_display.py   # Itinerary formatting logic
-├── ai_service.py          # AI-powered generation logic
-├── pdf_generator.py       # PDF export logic
-├── utils.py               # Utility functions
-├── requirements.txt       # Dependencies
+Tripgenie.ai/
+├── main.py                 # Main application entry point
+├── config.py              # Configuration settings
+├── styles.py              # CSS styling
+├── components.py          # UI components
+├── ai_service.py          # AI integration service
+├── pdf_generator.py       # PDF generation utilities
+├── utils.py               # Helper functions
+├── session_manager.py     # Session state management
+├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
+
 ```
 
 ---
@@ -128,9 +128,8 @@ streamlit run main.py
 
 | File                   | Feature                            |
 | ---------------------- | ---------------------------------- |
-| `itinerary_display.py` | Itinerary formatting and rendering |
 | `styles.py`            | CSS styling for consistent UI      |
-| `ui_components.py`     | Reusable widgets and UI components |
+| `components.py`     | Reusable widgets and UI components |
 
 ---
 
@@ -157,7 +156,6 @@ BUDGET_RANGES = {
 | `styles.py`            | Colors, fonts, layout, responsiveness |
 | `ai_service.py`        | AI prompt logic, model control        |
 | `pdf_generator.py`     | PDF layout and export templates       |
-| `itinerary_display.py` | New formats or display tweaks         |
 
 ---
 
