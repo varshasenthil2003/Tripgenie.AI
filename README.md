@@ -14,8 +14,8 @@ Using AI-driven insights, interactive UI components, and detailed export options
 
 Here’s a quick preview of TripGenie.AI in action:
 
-![TripGenie.AI Demo](assets/demo.png)
-
+![TripGenie.AI Demo](assets/demo1.png)
+![TripGenie.AI Demo](assets/demo2.png)
 ---
 
 ## 🛠️ Technologies Used
