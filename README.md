@@ -68,7 +68,7 @@ Using AI-driven insights, interactive UI components, and detailed export options
 ## 🏗️ Directory Structure
 
 ```bash
-tripgenie-ai/
+Tripgenie.AI/
 ├── main.py                 # Main Streamlit app
 ├── config.py              # API keys, UI settings, and app config
 ├── session_manager.py     # Session state manager
@@ -90,7 +90,7 @@ tripgenie-ai/
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/tripgenie-ai.git
+git clone https://github.com/yourusername/Tripgenie.AI.git
 cd tripgenie-ai
 
 # Create virtual environment
@@ -181,19 +181,6 @@ BUDGET_RANGES = {
 
 ---
 
-## 🧪 Development & Contribution
-
-```bash
-# Fork and clone
-git clone https://github.com/yourusername/tripgenie-ai.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch for dev
-streamlit run main.py
-```
-
 ## 📈 Performance Benchmarks
 
 * ⏱️ Load time: < 3 sec
@@ -212,7 +199,7 @@ streamlit run main.py
 
 ---
 
-**Made with ❤️ by the TripGenie.AI Team**
+**Made with ❤️ for travel lovers**
 
 > *Transform your travel dreams into perfectly crafted journeys with AI-powered precision.*
 
